@@ -1,0 +1,6 @@
+{
+  "name": "My Website",
+  "description": "A clean, modern starting point for a custom website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
